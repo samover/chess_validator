@@ -1,9 +1,0 @@
-b6 a5
-b2 b4
-b6 b4
-c5 b4
-d5 b5
-f1 c4
-c2 c6
-c2 e4
-c2 c4
