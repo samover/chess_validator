@@ -1,5 +1,10 @@
 # My validator checks whether given chess moves are valid on a given board
 # and stores the result in a file "results.txt"
+# TODO: 
+# => implement movement rules in class 'pieces' instead of knitting them
+# in class 'validate.
+# => make variable names more readable, e.g. algebraic iso alg
+# => pass board and moves files as CL variables (ARGV[0][1])
 
 require 'fileutils'
 require_relative 'pieces'
