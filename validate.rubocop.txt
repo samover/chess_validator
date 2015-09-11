@@ -1,0 +1,41 @@
+Inspecting 1 file
+C
+
+Offenses:
+
+validate.rb:2:1: C: Class has too many lines. [106/100]
+class Validate
+^^^^^
+validate.rb:44:3: C: Assignment Branch Condition size for possible_move? is too high. [16.79/15]
+  def possible_move?(move)
+  ^^^
+validate.rb:44:3: C: Method has too many lines. [12/10]
+  def possible_move?(move)
+  ^^^
+validate.rb:60:3: C: Assignment Branch Condition size for legal_pawn_move? is too high. [35.11/15]
+  def legal_pawn_move?(move, diff)
+  ^^^
+validate.rb:60:3: C: Cyclomatic complexity for legal_pawn_move? is too high. [13/6]
+  def legal_pawn_move?(move, diff)
+  ^^^
+validate.rb:60:3: C: Method has too many lines. [12/10]
+  def legal_pawn_move?(move, diff)
+  ^^^
+validate.rb:60:3: C: Perceived complexity for legal_pawn_move? is too high. [14/7]
+  def legal_pawn_move?(move, diff)
+  ^^^
+validate.rb:92:61: C: Space missing inside }.
+    (range[0]...range[1]).step(move.abs).collect { |num| num}[1..-1]
+                                                            ^
+validate.rb:98:7: C: Avoid multi-line ?: (the ternary operator); use if/unless instead.
+      steps.length > 6 ||
+      ^^^^^^^^^^^^^^^^^^^
+validate.rb:113:3: C: Assignment Branch Condition size for validate_moves is too high. [16.16/15]
+  def validate_moves
+  ^^^
+validate.rb:113:3: C: Method has too many lines. [12/10]
+  def validate_moves
+  ^^^
+validate.rb:126:1: C: Trailing whitespace detected.
+
+1 file inspected, 12 offenses detected

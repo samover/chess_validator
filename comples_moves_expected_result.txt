@@ -1,0 +1,118 @@
+b2 to b3 Pawn : LEGAL
+f2 to b7 Pawn : ILLEGAL (A Pawn cannot do that)
+b4 to a8: ILLEGAL (no piece on b4)
+a8 to g5 King : ILLEGAL (A King cannot do that)
+b2 to b4 Pawn : LEGAL
+h7 to f6: ILLEGAL (no piece on h7)
+e3 to b1 Pawn : ILLEGAL (A Pawn cannot do that)
+b7 to e4: ILLEGAL (no piece on b7)
+b2 to b5 Pawn : ILLEGAL (A Pawn cannot do that)
+g7 to g2: ILLEGAL (no piece on g7)
+f7 to f8 Pawn : ILLEGAL (A Pawn cannot do that)
+g7 to e8: ILLEGAL (no piece on g7)
+f5 to g5: ILLEGAL (no piece on f5)
+f7 to f6 Pawn : LEGAL
+c3 to a2 Bishop : ILLEGAL (A Bishop cannot do that) ! PATH BLOCKED
+e1 to c1: ILLEGAL (no piece on e1) 
+f7 to f5 Pawn : LEGAL
+g8 to c6: ILLEGAL (no piece on g8)
+b2 to d5 Pawn : ILLEGAL (A Pawn cannot do that)
+f7 to f4 Pawn : ILLEGAL (A Pawn cannot do that)
+f6 to f3: ILLEGAL (no piece on f6)
+c5 to f4 Pawn : ILLEGAL (A Pawn cannot do that)
+b6 to a5 Pawn : ILLEGAL (A Pawn cannot do that) ! LEGAL - CAPTURING PIECE
+c3 to d7 Bishop : ILLEGAL (A Bishop cannot do that)
+b2 to f6 Pawn : ILLEGAL (A Pawn cannot do that)
+e4 to d8 King : ILLEGAL (A King cannot do that)
+d2 to g6: ILLEGAL (no piece on d2)
+b2 to c3 Pawn : ILLEGAL (A Pawn cannot do that) ! LEGAL - CAPTURING PIECE
+a3 to g5 Rook : ILLEGAL (A Rook cannot do that)
+h6 to e8: ILLEGAL (no piece on h6)
+d3 to b5 Knight : ILLEGAL (A Knight cannot do that)
+d6 to f3: ILLEGAL (no piece on d6)
+c5 to c4 Pawn : LEGAL
+f6 to a3: ILLEGAL (no piece on f6)
+b7 to c1: ILLEGAL (no piece on b7)
+f1 to f1 Bishop : ILLEGAL (A Bishop cannot do that) ! NOT A MOVE
+b6 to b4 Pawn : LEGAL ! ILLEGAL, NOT FIRST MOVE
+a7 to e5: ILLEGAL (no piece on a7)
+b6 to c5 Pawn : ILLEGAL (A Pawn cannot do that) ! NOT ALLOWED TO CAPTURE OWN
+c2 to e7 Queen : ILLEGAL (A Queen cannot do that)
+d4 to f5: ILLEGAL (no piece on d4)
+a7 to g8: ILLEGAL (no piece on a7)
+a7 to d1: ILLEGAL (no piece on a7)
+c5 to b4 Pawn : ILLEGAL (A Pawn cannot do that)
+c4 to e3: ILLEGAL (no piece on c4)
+h4 to h3 Pawn : ILLEGAL (A Pawn cannot do that)
+b5 to b2: ILLEGAL (no piece on b5)
+b2 to g4 Pawn : ILLEGAL (A Pawn cannot do that)
+h3 to h4: ILLEGAL (no piece on h3)
+h8 to d3: ILLEGAL (no piece on h8)
+h8 to h7: ILLEGAL (no piece on h8)
+h2 to h3: ILLEGAL (no piece on h2)
+e8 to c4: ILLEGAL (no piece on e8)
+a3 to a1 Rook : ILLEGAL (A Rook cannot do that) ! LEGAL, MULTI MOVE
+d3 to b5 Knight : ILLEGAL (A Knight cannot do that)
+a3 to a1 Rook : ILLEGAL (A Rook cannot do that) ! LEGAL, MULTI MOVE
+d5 to d3 Rook : ILLEGAL (A Rook cannot do that) ! LEGAL, MULTI MOVE
+d5 to f5 Rook : ILLEGAL (A Rook cannot do that) ! LEGAL, MULTI MOVE
+b4 to f6: ILLEGAL (no piece on b4)
+d5 to g2 Rook : ILLEGAL (A Rook cannot do that) 
+c8 to d4: ILLEGAL (no piece on c8)
+d5 to b5 Rook : ILLEGAL (A Rook cannot do that) ! PATH BLOCKED
+c6 to d5 Rook : ILLEGAL (A Rook cannot do that) 
+f3 to b5: ILLEGAL (no piece on f3)
+a1 to g6: ILLEGAL (no piece on a1)
+g6 to e5 Knight : LEGAL
+d3 to e6 Knight : ILLEGAL (A Knight cannot do that)
+g6 to a7 Knight : ILLEGAL (A Knight cannot do that)
+g6 to h4 Knight : ILLEGAL (target is taken) ! LEGAL, CAPTURE PIECE
+c6 to d8 Rook : ILLEGAL (A Rook cannot do that)
+a3 to h8 Rook : ILLEGAL (A Rook cannot do that)
+g8 to f8: ILLEGAL (no piece on g8)
+c7 to f2: ILLEGAL (no piece on c7)
+d3 to c4 Knight : ILLEGAL (A Knight cannot do that)
+a5 to a4 Knight : ILLEGAL (A Knight cannot do that)
+a5 to b5 Knight : ILLEGAL (A Knight cannot do that)
+f1 to a8 Bishop : ILLEGAL (A Bishop cannot do that)
+c2 to g1 Queen : ILLEGAL (A Queen cannot do that)
+e5 to a4: ILLEGAL (no piece on e5)
+h5 to f1 Pawn : ILLEGAL (A Pawn cannot do that)
+e6 to g4 Bishop : ILLEGAL (A Bishop cannot do that) ! LEGAL: MULTI MOVE
+g5 to h2: ILLEGAL (no piece on g5)
+c3 to b2 Bishop : ILLEGAL (target is taken) ! LEGAL, CAPTURE PIECE
+h2 to c7: ILLEGAL (no piece on h2) 
+e6 to f3 Bishop : ILLEGAL (A Bishop cannot do that)
+c3 to c4 Bishop : ILLEGAL (A Bishop cannot do that)
+f1 to c4 Bishop : ILLEGAL (A Bishop cannot do that) ! ILLEGAL, PATH BLOCKED
+b3 to a6: ILLEGAL (no piece on b3)
+c4 to b3: ILLEGAL (no piece on c4)
+c1 to h6: ILLEGAL (no piece on c1)
+a5 to c5 Knight : ILLEGAL (A Knight cannot do that)
+f4 to f7 Queen : ILLEGAL (A Queen cannot do that) ! LEGAL, CAPTURE PIECE
+c2 to c6 Queen : ILLEGAL (A Queen cannot do that) ! ILLEGAL, PATH BLOCKED
+f6 to g2: ILLEGAL (no piece on f6)
+d2 to a1: ILLEGAL (no piece on d2)
+e4 to a3 King : ILLEGAL (A King cannot do that)
+c2 to d3 Queen : ILLEGAL (target is taken) ! LEGAL, CAPTURE PIECE
+a8 to c6 King : ILLEGAL (A King cannot do that)
+d6 to d1: ILLEGAL (no piece on d6)
+c2 to e4 Queen : ILLEGAL (A Queen cannot do that) ! ILLEGAL, PATH BLOCKED
+d6 to g2: ILLEGAL (no piece on d6)
+a6 to a7: ILLEGAL (no piece on a6)
+c2 to c4 Queen : ILLEGAL (A Queen cannot do that) ! ILLEGAL, PATH BLOCKED
+a8 to a7 King : LEGAL
+c4 to d3: ILLEGAL (no piece on c4)
+c3 to h5 Bishop : ILLEGAL (A Bishop cannot do that)
+b4 to c7: ILLEGAL (no piece on b4)
+e6 to d5 Bishop : ILLEGAL (target is taken) ! LEGAL, CAPTURE PIECE
+b6 to d6 Pawn : ILLEGAL (A Pawn cannot do that) 
+e5 to f8: ILLEGAL (no piece on e5)
+f1 to f6 Bishop : ILLEGAL (A Bishop cannot do that)
+a8 to a6 King : ILLEGAL (A King cannot do that)
+a8 to c6 King : ILLEGAL (A King cannot do that)
+e4 to e5 King : LEGAL
+h2 to a5: ILLEGAL (no piece on h2)
+c8 to e1: ILLEGAL (no piece on c8)
+e3 to h2 Pawn : ILLEGAL (A Pawn cannot do that)
+f3 to h3: ILLEGAL (no piece on f3)
